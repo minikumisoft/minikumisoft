@@ -1,5 +1,10 @@
-### Hi there 👋
+### This is my readme suka!
 
+Guy from 🇺🇦<br/>
+Don't have work because i'm stupid minor(14 years)<br/>
+Game Development things(i love games)<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nenenenenenenenenenene&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nenenenenenenenenenene/Nenenenenenenenenenene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
